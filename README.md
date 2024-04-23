@@ -17,8 +17,12 @@
 Dies ist eine Website wo alle Grundlagen erklärt werden, super als Einstieg:
 https://kulturbanause.de/blog/html-css-grundlagen-lernen/
 
-Youtube video für Grundlagen:
+Youtube Video für Grundlagen:
 https://www.youtube.com/watch?v=ZtqTqMeW1Rc&pp=ygUPZ3J1bmRsYWdlbiBodG1s
+
+Youtube Video wie man Seiten Intern verlinkt, super für die NFL Seite (auf Bild klicken --> Steckbrief)
+https://www.youtube.com/watch?v=MsL3chGJGk0
+
 ## 30.4.2024
 - [ ] Erstes Arbeitspaket
 - [ ] ...
