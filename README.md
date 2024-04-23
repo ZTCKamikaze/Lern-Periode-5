@@ -12,7 +12,7 @@
    das Auto vom Fahrer ein paar Informationen geben. Oder als zweites Thema ein kleines Programmier-Projekt.
 
 ## 23.4.2024
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mich über html erkundigt und zwei kleine Themen überlegt. Ausserdem habe ich noch drei gute videos / websites gefundne die mir einerseits die Grundlagen erklären und dann noch ein Video dass mir hilft für mein erstes kleines Pojekt (Wie verlinkt man zwei seiten intern). 
 
 Dies ist eine Website wo alle Grundlagen erklärt werden, super als Einstieg:
 https://kulturbanause.de/blog/html-css-grundlagen-lernen/
@@ -23,10 +23,14 @@ https://www.youtube.com/watch?v=ZtqTqMeW1Rc&pp=ygUPZ3J1bmRsYWdlbiBodG1s
 Youtube Video wie man Seiten Intern verlinkt, super für die NFL Seite (auf Bild klicken --> Steckbrief)
 https://www.youtube.com/watch?v=MsL3chGJGk0
 
+(86 Wörter)
+
 ## 30.4.2024
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Einfache website erstellen (basic)
+- [ ] Bilder und Informationen von den Spielern herausfinden
+- [ ] Einfache Website mit Bildern und deren Namen und Titel.
+
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
