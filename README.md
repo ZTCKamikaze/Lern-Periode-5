@@ -1,5 +1,5 @@
 # Lern-Periode 5
-## 23.4 bis 25.6.2024
+23.4 bis 25.6.2024
 
 ## Grob-Planung
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
