@@ -14,6 +14,8 @@
 ## 23.4.2024
 ✍️ Heute habe ich... (50-100 Wörter)
 
+Dies ist eine Website wo alle Grundlagen erklärt werden, super als Einstieg.
+https://kulturbanause.de/blog/html-css-grundlagen-lernen/
 ## 30.4.2024
 - [ ] Erstes Arbeitspaket
 - [ ] ...
