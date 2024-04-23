@@ -9,7 +9,7 @@
 3. Was wäre ein geeignetes Projekt für diese LP5?
    Ich habe vor 2 Websites zu machen, einmal für American Football, wo mein Lieblingsteam dargestellt wird und wenn ich auf ein Bild von Ihnen draufklicke soll ein kleiner Steckbrief über diese Spieler       
    kommen. Das zweite Thema für die Zweite Website ist über Formel 1. Ich weiss noch nicht genau wie ich es machen möchte, aber sicher möchte ich alle Spieler auflisten mit einem Steckbrief und dann noch über 
-   das Auto vom Fahrer ein paar Informationen geben.
+   das Auto vom Fahrer ein paar Informationen geben. Oder als zweites Thema ein kleines Programmier-Projekt.
 
 ## 23.4.2024
 ✍️ Heute habe ich... (50-100 Wörter)
