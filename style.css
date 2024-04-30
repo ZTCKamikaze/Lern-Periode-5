@@ -1,0 +1,14 @@
+  .Kanses {
+    background-color: red;
+    height: 100px;
+    color: black;
+  } 
+
+  body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: beige;
+  }
+
+  #player {
+    font-size: xx-large;
+  }
