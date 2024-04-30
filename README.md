@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=MsL3chGJGk0
 (86 Wörter)
 
 ## 30.4.2024
-- [ ] Einfache website erstellen (basic)
+- [X] Einfache website erstellen (basic)
 - [ ] Bilder und Informationen von den Spielern herausfinden
 - [ ] Einfache Website mit Bildern und deren Namen und Titel.
 
