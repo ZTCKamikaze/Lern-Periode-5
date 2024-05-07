@@ -34,9 +34,9 @@ https://www.youtube.com/watch?v=MsL3chGJGk0
 ✍️ Heute habe ich meine Website angefangen und habe eine kleine Website erstellt und auch schon Bilder hinzugeügt, leider funktionieren bei mir die Classes und style.css nicht. Ich werde mich damit nächstes mal mehr damit beschäftigen. Ausserdem habe ich schon für drei Spieler der Offense Informationen herausgesucht und es sogar schon geschafft eine zweite html-Datei zu erstellen und mit einem Link zu verlinken, damit wenn ich auf den Link (den Namen des Spielers) klicke auf eine andere Website komme. (78 Wörter)
 
 ## 07.5.2024
-- [ ] Die vorhanden Informationen der Spieler in die Website integrieren.
-- [ ] Bilder und Informationen von den Spielern herausfinden
-- [ ] Einfache Website mit Bildern und deren Namen und Titel.
+- [X] Die vorhanden Informationen der Spieler in die Website integrieren.
+- [X] Bilder und Informationen von den Spielern herausfinden
+- [X] Einfache Website mit Bildern und deren Namen und Titel.
 - [ ] Videos zu Classes und css style anschauen; Link: https://www.youtube.com/watch?v=wXUhTZpF_HQ (Classes); Link: https://www.youtube.com/watch?v=azZCW24XtT4 (Style with css)
 
 
