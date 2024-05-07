@@ -1,4 +1,4 @@
-  .Kanses {
+  #Kanses {
     background-color: red;
     height: 100px;
     color: black;
@@ -6,9 +6,30 @@
 
   body {
     font-family:'Times New Roman', Times, serif;
-    background-color: beige;
+    background-image: url("/assets/KansesField2.webp");
+    height: 100%;
+    background-repeat: repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
   }
 
-  #player {
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .player, a {
     font-size: xx-large;
+    color: black;
+  }
+
+  .left {
+    float: left;
+  }
+
+  .wrapper {
+    width: 1500x;
+    margin: auto;
+    overflow: auto;
   }
