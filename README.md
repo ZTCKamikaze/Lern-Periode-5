@@ -39,5 +39,12 @@ https://www.youtube.com/watch?v=MsL3chGJGk0
 - [X] Einfache Website mit Bildern und deren Namen und Titel.
 - [ ] Videos zu Classes und css style anschauen; Link: https://www.youtube.com/watch?v=wXUhTZpF_HQ (Classes); Link: https://www.youtube.com/watch?v=azZCW24XtT4 (Style with css)
 
+✍️ Heute habe ich einen Hintergrund hinzugefügt und die vorhandenen Informationen von drei Spielern in den Code integriert, und probiert dies ein wenig zu Designen. Ausserdem habe ich noch ein paar andere Informationen von anderen Spielern herausgesucht und werde diese nächstes mal hineinfügen. Den Background einzufügen hat bei mir sehr lange gebraucht, da ich nicht gesehen hatte, das meine html dateien nicht mit der Style.css Datei gelinkt waren... Später habe ich es aber herausgefunden und repariert. (75 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
+## 14.05.2024
+- [ ] Informationen der Spieler erneut in den Code einfügen
+- [ ] Neue Spieler Informationen finden
+- [ ] Der Steckbreif der Spieler soll neben dem Bild sein, aber nicht so nah, sondern weiter weg
+- [ ] Schöner gestallten (Schrift, Farbe, usw.)
