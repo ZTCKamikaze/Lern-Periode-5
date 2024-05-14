@@ -44,7 +44,15 @@ https://www.youtube.com/watch?v=MsL3chGJGk0
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 14.05.2024
-- [ ] Informationen der Spieler erneut in den Code einfügen
-- [ ] Neue Spieler Informationen finden
+- [X] Informationen der Spieler erneut in den Code einfügen
+- [X] Neue Spieler Informationen finden
 - [ ] Der Steckbreif der Spieler soll neben dem Bild sein, aber nicht so nah, sondern weiter weg
 - [ ] Schöner gestallten (Schrift, Farbe, usw.)
+
+✍️ Heute habe ich einen neuen Spieler hinzugefügt und eine Searchbar ebnfalls, leier funktinoiert sie noch nicht ganz, aber ich kann mir sehr gut vorstellen, das sie sehr helfen wird und es einfacher die Spieler zu suchen, falls man einen bestimmten Spieler sucht. (42 Wörter)
+
+## 21.05.2024
+- [ ] Der Steckbrief der Spieler soll neben dem Bild sein, aber nicht so nah, sonder weiter weg
+- [ ] Schöner gestallten (Schrift, Farbe, usw.)
+- [ ] Search-bar zum laufen bringen, so dass man nach spielern suchen kann
+- [ ] Immer wieder neue Informationen der Spieler suchen und in die Website einfügen.
