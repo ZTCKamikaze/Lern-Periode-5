@@ -53,6 +53,14 @@ https://www.youtube.com/watch?v=MsL3chGJGk0
 
 ## 21.05.2024
 - [ ] Der Steckbrief der Spieler soll neben dem Bild sein, aber nicht so nah, sonder weiter weg
-- [ ] Schöner gestallten (Schrift, Farbe, usw.)
+- [X] Schöner gestallten (Schrift, Farbe, usw.)
 - [ ] Search-bar zum laufen bringen, so dass man nach spielern suchen kann
-- [ ] Immer wieder neue Informationen der Spieler suchen und in die Website einfügen.
+- [X] Immer wieder neue Informationen der Spieler suchen und in die Website einfügen.
+
+✍️ Heute habe ich das weitere Spieler hinzugefügt und Offense und Defence getrennt (mit zwei Buttons) ausserdem habe ich auch noch einen "Return" Button erstellt und eingefügt. An der Search-Bar habe ich ebenfalls dran weitergearbeitet, doch leider konnte ich es wieder nicht zum laufen bringen. (45 Wörter)
+
+## 28.05.2024
+- [ ] Steckbrief und Bild weiter auseinander bringen
+- [ ] Search-Bar zum laufen bringen, so dass man nach Spielern suchen kann
+- [ ] Spieler Informationen und diese dann auch einfügen
+- [ ] Return-Button besser/schöner gestalten (sieht ziemlich kalt aus)
