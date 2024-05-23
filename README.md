@@ -64,3 +64,6 @@ https://www.youtube.com/watch?v=MsL3chGJGk0
 - [ ] Search-Bar zum laufen bringen, so dass man nach Spielern suchen kann
 - [ ] Spieler Informationen und diese dann auch einfügen
 - [ ] Return-Button besser/schöner gestalten (sieht ziemlich kalt aus)
+- [ ] Bilder ändern (Urheberrecht)
+- [ ] Search Bar fixen sodass sie beim scrollen oben bleibt und nicht verschweindet
+- [ ] hover benutzten für bilder damit wenn man auf die bilder hover ein effekt kommt und wemm darauf klickt vergrössert das bild
