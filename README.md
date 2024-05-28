@@ -62,8 +62,15 @@ https://www.youtube.com/watch?v=MsL3chGJGk0
 ## 28.05.2024
 - [ ] Steckbrief und Bild weiter auseinander bringen
 - [ ] Search-Bar zum laufen bringen, so dass man nach Spielern suchen kann
-- [ ] Spieler Informationen und diese dann auch einfügen
+- [X] Spieler Informationen und diese dann auch einfügen
 - [ ] Return-Button besser/schöner gestalten (sieht ziemlich kalt aus)
-- [ ] Bilder ändern (Urheberrecht)
+- [X] Bilder ändern (Urheberrecht)
 - [ ] Search Bar fixen sodass sie beim scrollen oben bleibt und nicht verschweindet
-- [ ] hover benutzten für bilder damit wenn man auf die bilder hover ein effekt kommt und wemm darauf klickt vergrössert das bild
+
+✍️ Heute habe ich einen Footer erstellt, und in diesem Footer habe ich unteranderem mein Github profil verlinkt und habe sogar die links von den Websiten woher ich die Bilder genommen habe. Ausserdem hatte ich im Modul 293 letze Woche kennengelernt, dass ich nicht einfach Bilder aus der Googlesuche nehmen kann, darum habe ich alle meine Bilder noch geändert. Ich habe auch noch ein paar Farben ausgetauscht und 2 Farbpaletten erstellt (mit Coolers) ich werde versuchen diese farbpalette nächstes mal umzusetzen.
+
+## 04.06.2024
+- [ ] Steckbrief und Bild weiter auseinander bringen (und fixen)
+- [ ] Search-Bar soll funktionieren
+- [ ] Return-Button schöner gestallten
+- [ ] Farbpalette in die Website integrieren.
