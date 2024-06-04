@@ -74,3 +74,12 @@ https://www.youtube.com/watch?v=MsL3chGJGk0
 - [ ] Search-Bar soll funktionieren
 - [ ] Return-Button schöner gestallten
 - [ ] Farbpalette in die Website integrieren.
+
+✍️ Heute habe ich nicht viel machen können, weil ich eher für eine wichtige Prüfung gelernt die ich morgen schreibne muss und ausserdem habe ich noch das Modul 122 Nachgeholt, weil ich an dem Tag wo wir dieses Modul machen sollten leider Krank im Bett war. Das habe ich heute auch nahcgeholt, aber wie gesagt am meinem Projekt konnte ich nicht viel weiter arbeiten. Desshalbe habe ich heue Leider keine Arbeitspakete geschafft. (71 Wörter)
+
+## 11.06.2024
+- [ ] Steckbrief und Bild weiter auseinander bringen (und fixen)
+- [ ] Search-Bar soll funktionieren
+- [ ] Return-Button schöner gestallten
+- [ ] Farbpalette in die Website integrieren.
+
