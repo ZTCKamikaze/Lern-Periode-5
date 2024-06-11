@@ -83,3 +83,11 @@ https://www.youtube.com/watch?v=MsL3chGJGk0
 - [ ] Return-Button schöner gestallten
 - [ ] Farbpalette in die Website integrieren.
 
+✍️ Heute habe ich an zwewi Modulen gearbeitet, da wir demnächst noch zwei abgaben haben, die wir abgeben müssen und ich noch nciht angefangen hatte... Dafür habe ich fast mein Powershell-Skript fertig und habe auch schon mithilfe eines Pflichtenheftes meine Website geplannt für das M293 gemacht.
+
+## 18.06.2024
+- [ ] Steckbrief und Bild weiter auseinander bringen (und fixen)
+- [ ] Search-Bar soll funktionieren
+- [ ] Return-Button schöner gestallten
+- [ ] Farbpalette in die Website integrieren.
+- [ ] An beiden Modul weiterarbeiten.
