@@ -95,8 +95,8 @@ https://www.youtube.com/watch?v=MsL3chGJGk0
 ✍️ Heute habe ich sehr viel an meiner LB vom Modul 293 weitergearbeitet. Und ich habe sie sogar schon fast fertig, ich muss nur noch ein wenig schauen, wie es sein soll wenn der Bildschrim weniger als 600px hat. Ausserdem hatte ich ein Mockup gemacht, auch für die LB und dieses habe ich alleine heute schon fast fertig bekommen. Leider habe ich mein Projekt in der jetzigen Lernatelier Periode vernachlässigt und werde höchstwahrscheinlich in dieser Periode daran weiterarbeiten. Aber ich hoffe ich kann es in der folgenden Periode weiterführen. (88 Wörter)
 
 ## 25.06.2024
-- [ ] LB293 weiterarbeiten, sodass ich dieses schon hochladen kann (hosten lassen von github)
-- [ ] am Modul 122 (auch für die LB) weiterarbeiten, sodass ich dieses Projekt ebenfalls abschliessen kann und mich mehr auf M293 konzentrieren kann
+- [X] LB293 weiterarbeiten, sodass ich dieses schon hochladen kann (hosten lassen von github)
+- [X] am Modul 122 (auch für die LB) weiterarbeiten, sodass ich dieses Projekt ebenfalls abschliessen kann und mich mehr auf M293 konzentrieren kann
 
 
 ## Reflexion vom ganzen Jahr
