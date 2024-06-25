@@ -97,9 +97,3 @@ https://www.youtube.com/watch?v=MsL3chGJGk0
 ## 25.06.2024
 - [X] LB293 weiterarbeiten, sodass ich dieses schon hochladen kann (hosten lassen von github)
 - [X] am Modul 122 (auch für die LB) weiterarbeiten, sodass ich dieses Projekt ebenfalls abschliessen kann und mich mehr auf M293 konzentrieren kann
-
-
-## Reflexion vom ganzen Jahr
-Ich fand das ich in diesem Jahr gut gearbeitet habe im Lernaetlier, das einzige das mich ein wenig nervt, ist, dass ich ein Projekt das ich mir vorneme fasst nciht zu Ende bringe, weil ich am Ende einer Lernperiode auch immer eine Modulabgabe habe und ich dann aufeinmal wechsle und mich auf diese Abgaben konzentriere und nicht die Projekte die ich mir vorgenommen hatte, und in der lezten Periode hat es wunderbar funktioniert, da wir ein html Modul hatten, habe ich im Lernatelier ausprobiert und konnte ein paat Sachen vom Lernatelier übernehmen in meine LB. Wenn die ganzen Dokumentaionen und Portfolios nicht wären, wäre ich jetzt fertig mit der LB und könnte am Projekt vom Lernatelier weiterarbeiten. 
-Im Grossen und Ganzen fand ich das Jahr produtiv, abgesehen davon das ich nie ein Projekt zu ende bringe. Ausserdem find ich das das Lernatelier ein gutes entspannendes Fach ist wo man machen kann was man möchte Hauptsache es ist etwas mit Informatik und das ist Super, ich kann einfach an Modulen weiterarbeiten oder ein eigenes Projekt erstellen. 
-Für das nächste Jahr nehme ich mir vor Projekte endlich mal abzuschliessen. Unteranderem fand ich meine Planung nicht so gut, da ich viel geändert habe und nicht viel abhacken konnte, weil ich trotzdem etwas anderes gemacht ahtte (am Modul weiterarbeiten astatt am Projekt). Darum nehme ich mir für das nächste Jahr vor eine bessere Planung zu machen und Projekte auch schlussendlich auch abzuschilesen.
