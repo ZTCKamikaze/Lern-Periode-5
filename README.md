@@ -97,7 +97,9 @@ https://www.youtube.com/watch?v=MsL3chGJGk0
 ## 25.06.2024
 - [X] LB293 weiterarbeiten, sodass ich dieses schon hochladen kann (hosten lassen von github)
 - [X] am Modul 122 (auch für die LB) weiterarbeiten, sodass ich dieses Projekt ebenfalls abschliessen kann und mich mehr auf M293 konzentrieren kann
-- [ ] 
+
+✍️ Heute habe ich wieder einmal an meinen Modul abgaben gearbeitet, da wir diese schon diese Woche abgeben müssen und ich noch realtiv viel machen muss. Aber dank diesem Lernatelier konnte ich grosse Vortschritte machen.
+
 
 
 # Fertiges Projekt
