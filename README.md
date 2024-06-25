@@ -100,6 +100,8 @@ https://www.youtube.com/watch?v=MsL3chGJGk0
 
 ✍️ Heute habe ich wieder einmal an meinen Modul abgaben gearbeitet, da wir diese schon diese Woche abgeben müssen und ich noch realtiv viel machen muss. Aber dank diesem Lernatelier konnte ich grosse Vortschritte machen.
 
+## Reflexion
+Dieses Mal habe ich mich gut auf mein Projekt konzentriert und sogar fast fertig bekommen, doch leider habe ich zwei Modul abgaben die sehr gross sind, vorallem weil ich 5 Dokumentationen machen muss... Aber ich bin sehr zufrieden mit dieser Lernperiod, leider bin ich wieder einmal nicht fertig geworden, worauf ich nicht besonders Stolz bin.
 
 
 # Fertiges Projekt
