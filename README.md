@@ -101,7 +101,9 @@ https://www.youtube.com/watch?v=MsL3chGJGk0
 
 
 # Fertiges Projekt
-In meiner Webseie kann ich verschiedene Spieler der NFL Mannschaft Kanses City Chiefs und Ihr Steckbreif aufrufen. Ausserdem kann man zwischen der Defence und Offence Teams unterscheiden, mithilfe der Navigationbar. Ich habe auch einen Zurück Button erstellt wo ich zurück gehen kann, falls ich fertig bin mit dem Spieler den ich gerade angeschaut habe.
+In meiner Webseie kann ich verschiedene Spieler der NFL Mannschaft Kanses City Chiefs und Ihr Steckbreif aufrufen. Ausserdem kann man zwischen der Defence und Offence Teams unterscheiden, mithilfe der Navigationbar. Ich habe auch einen Zurück Button erstellt wo ich zurück gehen kann, falls ich fertig bin mit dem Spieler den ich gerade angeschaut habe. Ich habe auch einen sehr coolen Footer erstellt.
 ![image](https://github.com/ZTCKamikaze/Lern-Periode-5/assets/142886118/9d6b5790-4a57-481a-9dab-541422e35bb0)
+![image](https://github.com/ZTCKamikaze/Lern-Periode-5/assets/142886118/5b47486c-e0a1-4521-9295-056edd291c94)
+
 
 
