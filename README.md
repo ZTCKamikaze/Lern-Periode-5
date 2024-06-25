@@ -97,3 +97,8 @@ https://www.youtube.com/watch?v=MsL3chGJGk0
 ## 25.06.2024
 - [X] LB293 weiterarbeiten, sodass ich dieses schon hochladen kann (hosten lassen von github)
 - [X] am Modul 122 (auch für die LB) weiterarbeiten, sodass ich dieses Projekt ebenfalls abschliessen kann und mich mehr auf M293 konzentrieren kann
+- [ ] 
+
+
+# Fertiges Projekt
+In meiner Webseie kann ich verschiedene Spieler der NFL Mannschaft Kanses City Chiefs und Ihr Steckbreif aufrufen. Ausserdem kann man zwischen der Defence und Offence Teams unterscheiden, mithilfe der Navigationbar. Ich habe auch einen Zurück Button erstellt wo ich zurück gehen kann, falls ich fertig bin mit dem Spieler den ich gerade angeschaut habe.
