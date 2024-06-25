@@ -110,6 +110,19 @@ In meiner Webseie kann ich verschiedene Spieler der NFL Mannschaft Kanses City C
 ![image](https://github.com/ZTCKamikaze/Lern-Periode-5/assets/142886118/5b47486c-e0a1-4521-9295-056edd291c94)
 ![GIF](https://github.com/ZTCKamikaze/Lern-Periode-5/assets/142886118/cfc91896-7391-451b-a9fb-401468a3d7de)
 
+## Reflexion des Jahres
+1. Was haben Sie konkret gelernt dieses Jahr? (Technisch)
+   ICh habe gelernt, wie ich einen coolen Footer erstelle mit Symbolen, generell habe ich gelernt wie ich einen gute Webseite mithilfe CSS und HTML erstellen kann.
+2. Was haben Sie konkret gelernt dieses Jahr? (Arbeitsweise)
+   Das eine Planung sehr wichtig ist. Man sollte sich alles sehr gut aufteilen, damit man keine Überraschungen oder Stress hat.
+3. Was möchten Sie selber nächstes Jahr anders machen in der LA?
+   Eine bessere Planung, damit ich meine Projekte abschliessen kann. Im Moment habe ich nicht so viele Projekte abgeschlossen, da immer wieder grosse Modul abgaben dazwischen gekommen sind.
+4. Was hat Ihnen an der LA gefallen?
+   Der Online bzw. Distanz Unterricht. Zu hause zu arbeiten ist nochmal etwas anderes als in der Schule zu arbeiten, vor allem für diejenigen, die einen langen Schulweg haben.
+5. Was würden Sie sich wünschen, das nächste Jahr im LA anders wäre?
+   Wir haben schon einen Provisorischen Stundenplan bekommen und erfahren das das LA an einem Freitag Nachmittag wäre, deshalb würde ich mehr Online Unterricht sehr gut finden, weil am Freitag Abend die 
+   meisten schnell zu hause sein wollen und etwas mit Freunden unternehmen wollen.
+
 
 
 
